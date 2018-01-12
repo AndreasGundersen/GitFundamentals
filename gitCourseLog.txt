@@ -1,3 +1,5 @@
+Andreas Edit
+
 This document displays and explains features about Git. Most of the content is grapped from 
 James Wyndham's PluralSight course Git Fundamentals
 
